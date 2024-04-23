@@ -1,0 +1,9 @@
+Package: com.dvntm.uyoufix
+Name: uYouFix
+Depends: mobilesubstrate
+Version: 3.0.3
+Architecture: iphoneos-arm
+Description: Fixes uYou crash when trying to play video
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
